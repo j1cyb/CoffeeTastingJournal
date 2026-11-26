@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "447365665044",
+    "project_id": "coffeetastingjournal",
+    "storage_bucket": "coffeetastingjournal.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447365665044:android:be7397e52c37a141a5f201",
+        "android_client_info": {
+          "package_name": "com.example.coffeetastingjournal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2HY18go2_S4-t3mphXCH7upJxVbHlxb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
